@@ -2,11 +2,11 @@
 
 Meu nome é ***Caio*** e estou cursando Analise e Desenvolvimento de Sistemas.
 
-****Domínios****: `Html 5, Css / TailwindCss e JavaScript.`
+****Domínios****: `Html 5, Css / TailwindCss, JavaScript e React.`
 
-****Outros Conhecimentos****: `Java, Python e PostgresSql.`
+****Outros Conhecimentos****: `Java, Python e PostgresSql, PrismaORM.`
 
-****Estou estudando atualmente****:  `Flutter, React e Typescript.`
+****Estou estudando atualmente****:  `React + Nextjs, Typescript, API Calls e Streaming.`
 
 Gosto de Desenvolver aplicações Web acolhedoras e responsivas, bora codar! :)
 
