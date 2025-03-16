@@ -6,7 +6,7 @@ Meu nome é ***Caio*** e estou cursando Analise e Desenvolvimento de Sistemas.
 
 ****Outros Conhecimentos****: `Java, Python e PostgresSql, PrismaORM.`
 
-****Estou estudando atualmente****:  `React + Nextjs, Typescript, API Calls e Streaming.`
+****Estou estudando atualmente****:  `Nextjs, WebCache, ServerComponents.`
 
 Gosto de Desenvolver aplicações Web acolhedoras e responsivas, bora codar! :)
 
