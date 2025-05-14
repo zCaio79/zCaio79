@@ -10,6 +10,6 @@ Meu nome é ***Caio*** e estou cursando Analise e Desenvolvimento de Sistemas.
 
 Gosto de Desenvolver aplicações Web acolhedoras e responsivas, bora codar! :)
 
- ![Star Wars Rey GIF](https://media1.tenor.com/m/lRFkHTWGxD4AAAAC/star-wars-rey.gif)
+ ![Star Wars Rey GIF](https://media1.tenor.com/m/tV3YeH4W5n8AAAAd/star-wars-rey.gif)
 
 
